@@ -1,0 +1,2 @@
+# Machine Learning Repository
+## This repository is a collection of various machine learning projects, algorithms, datasets, and resources to help you learn, practice, and explore the fascinating field of machine learning.
